@@ -1,0 +1,23 @@
+/*style*/
+body{
+	background-color: floralwhite;
+}
+header{
+	background-color: #red;
+	display: flex;
+	position: absolute;
+	width: 100%;
+	justify-content: space-between;
+}
+
+#main-layout{
+	background-color: #beige;
+	display: flex;
+	justify-content: space-around;
+}
+.main-item{
+	width: 50%;
+}
+.baruun{
+	display: flex;
+}
